@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2241'
     url: http://www.gutenberg.org/2009/agents/2241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38934#The-Camp-Fire-Girls-Larks-and-Pranks--Or-The-House-of-the-Open-Door
 gutenberg_issued: '2012-02-20'
 gutenberg_type: Text
 identifiers:
