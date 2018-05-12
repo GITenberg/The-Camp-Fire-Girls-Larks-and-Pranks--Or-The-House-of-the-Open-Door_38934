@@ -1,0 +1,32 @@
+_repo: The-Camp-Fire-Girls-Larks-and-Pranks--Or-The-House-of-the-Open-Door_38934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38934-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegarde G.
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_issued: '2012-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Clubs -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Teasing -- Juvenile fiction'
+title: The Camp Fire Girls' Larks and Pranks; Or, The House of the Open Door
+url: http://www.gutenberg.org/ebooks/38934
